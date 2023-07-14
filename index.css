@@ -52,8 +52,24 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
-    }
-    .images{
+ }
+    
+.images-container
+    {
         display: flex;
-       
+        text-align: center;
+        padding-left: 500px;
+        gap: 30px;
+
     }
+    .images1{
+        background: rgba(167, 33, 98, 0.15);
+
+        
+    }
+    .images2{
+        background: rgba(5, 151, 160, 0.15); 
+    }
+.images3{
+    background: rgba(71, 125, 17, 0.15);
+}
