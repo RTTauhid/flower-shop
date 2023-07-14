@@ -73,3 +73,10 @@ line-height: 30px;
 .images3{
     background: rgba(71, 125, 17, 0.15);
 }
+.flower-name{
+    display: flex;
+    text-align: center;
+        padding-left: 500px;
+        gap: 100px;
+
+}
