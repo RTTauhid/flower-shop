@@ -1,3 +1,23 @@
-.heading{
-    color: blue;
+
+/* header section*/
+
+.heading-section{
+    background: rgba(229, 84, 115, 0.10);
+    max-width: 1500px ;
+    
+   align-items: center;
+   margin: auto;
+   
+}
+
+.head{
+    display: flex;
+    
+}
+.head-text{
+    padding: 20px 572px 10px 240px ;
+}
+.img-flower{
+    
+    
 }
