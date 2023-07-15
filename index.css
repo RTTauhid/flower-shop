@@ -58,25 +58,51 @@ line-height: 30px;
     {
         display: flex;
         text-align: center;
-        padding-left: 500px;
+        padding-left: 450px;
         gap: 30px;
 
     }
     .images1{
         background: rgba(167, 33, 98, 0.15);
+        border-radius: 300px 300px 0px 0px;
 
         
     }
     .images2{
         background: rgba(5, 151, 160, 0.15); 
+        border-radius: 300px 300px 0px 0px;
     }
 .images3{
     background: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
 }
 .flower-name{
     display: flex;
-    text-align: center;
-        padding-left: 500px;
+    
+        padding-left: 450px;
         gap: 100px;
 
 }
+.hot-deals{
+    text-align: center;
+    padding-left: 150px;
+    display: flex;
+    margin: auto; 
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 90px;
+}
+.hot-deals-title{
+    padding-top: 90px;
+   
+}
+.sign-up{
+ 
+    border-radius: 8px;
+background: #E55473;
+}
+.off{
+    color: #E55473;
+}
+
+
